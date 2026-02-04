@@ -1,0 +1,89 @@
+SCORING: 2855094384.tif
+Loading: vesuvius_dataset/gt/2855094384.tif
+Shape: (320, 320, 320) dtype: uint8
+Loading: vesuvius_dataset/submission/2855094384.tif
+Shape: (320, 320, 320) dtype: uint8
+TIME: 48.55 sec
+TOTAL: 0.48420763664140076
+TOPO: 0.20960415314730696
+SURFACE: 0.5805248827729825
+VOI: 0.6232648049333277
+HOLES: {0: (19, 68, 24), 1: (0, 255, 3), 2: (0, 0, 0)}
+------
+SCORING: 3031545955.tif
+Loading: vesuvius_dataset/gt/3031545955.tif
+Shape: (320, 320, 320) dtype: uint8
+Loading: vesuvius_dataset/submission/3031545955.tif
+Shape: (320, 320, 320) dtype: uint8
+TIME: 53.88 sec
+TOTAL: 0.5383772195888457
+TOPO: 0.28756218905472636
+SURFACE: 0.7759532920682578
+VOI: 0.5157854589958214
+HOLES: {0: (34, 71, 49), 1: (0, 199, 69), 2: (0, 0, 0)}
+------
+SCORING: 324225693.tif
+Loading: vesuvius_dataset/gt/324225693.tif
+Shape: (320, 320, 320) dtype: uint8
+Loading: vesuvius_dataset/submission/324225693.tif
+Shape: (320, 320, 320) dtype: uint8
+TIME: 584.95 sec
+TOTAL: 0.3817430926211114
+TOPO: 0.1591766426134405
+SURFACE: 0.359565754584139
+VOI: 0.5946916735218016
+HOLES: {0: (10, 48, 13), 1: (0, 295, 0), 2: (0, 3, 0)}
+------
+SCORING: 3337576154.tif
+Loading: vesuvius_dataset/gt/3337576154.tif
+Shape: (320, 320, 320) dtype: uint8
+Loading: vesuvius_dataset/submission/3337576154.tif
+Shape: (320, 320, 320) dtype: uint8
+TIME: 60.54 sec
+TOTAL: 0.41579048100993166
+TOPO: 0.06257679687983657
+SURFACE: 0.39481961374519153
+VOI: 0.7395159346718961
+HOLES: {0: (6, 56, 24), 1: (0, 835, 0), 2: (0, 14, 0)}
+------
+SCORING: 3497041635.tif
+Loading: vesuvius_dataset/gt/3497041635.tif
+Shape: (256, 256, 256) dtype: uint8
+Loading: vesuvius_dataset/submission/3497041635.tif
+Shape: (25
+oading: vesuvius_dataset/gt/4273576431.tif
+Shape: (320, 320, 320) dtype: uint8
+Loading: vesuvius_dataset/submission/4273576431.tif
+Shape: (320, 320, 320) dtype: uint8
+TIME: 51.12 sec
+TOTAL: 0.5986462199064693
+TOPO: 0.38185311068420275
+SURFACE: 0.8762013220959485
+VOI: 0.5069137827646469
+HOLES: {0: (38, 46, 55), 1: (0, 274, 3), 2: (0, 0, 0)}
+------
+SCORING: 535534919.tif
+Loading: vesuvius_dataset/gt/535534919.tif
+Shape: (320, 320, 320) dtype: uint8
+Loading: vesuvius_dataset/submission/535534919.tif
+Shape: (320, 320, 320) dtype: uint8
+TIME: 75.34 sec
+TOTAL: 0.3772259466667659
+TOPO: 0.007179839633447881
+SURFACE: 0.3505926970715009
+VOI: 0.7210415737191604
+HOLES: {0: (1, 144, 36), 1: (0, 3472, 20), 2: (0, 48, 0)}
+------
+SCORING: 975031774.tif
+Loading: vesuvius_dataset/gt/975031774.tif
+Shape: (320, 320, 320) dtype: uint8
+Loading: vesuvius_dataset/submission/975031774.tif
+Shape: (320, 320, 320) dtype: uint8
+TIME: 52.93 sec
+TOTAL: 0.5320131827188861
+TOPO: 0.3189765458422175
+SURFACE: 0.7343079197371706
+VOI: 0.5123212773091745
+HOLES: {0: (33, 63, 42), 1: (0, 206, 2), 2: (0, 0, 0)}
+------
+(vesuvius_env) (base) sec@sec-HP-250-15-6-inch-G9-Notebook-PC:~/Downloads/vesuvi(vesuvius_env) (base) sec@sec-HP-250-15-6-inch-G9-Notebook-PC:~/Downloads/vesuvi(vesuvius_env) (base) sec@sec-HP-250-15-6-in(vesuvius_env) (base) sec@sec-HP-250-15-6-inch-G9-Notebook-PC:~/Downloads/vesuvius/topological-metrics-kaggle$
